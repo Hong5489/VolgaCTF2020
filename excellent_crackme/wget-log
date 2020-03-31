@@ -1,0 +1,6 @@
+--2020-03-31 14:10:39--  https://media.discordapp.net/attachments/668666786287452161/693507505912938556/Capture.PNG?width=735
+Resolving media.discordapp.net (media.discordapp.net)... 162.159.129.232, 162.159.128.232, 162.159.130.232, ...
+Connecting to media.discordapp.net (media.discordapp.net)|162.159.129.232|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-03-31 14:10:40 ERROR 400: Bad Request.
+
