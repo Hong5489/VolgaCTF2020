@@ -22,7 +22,7 @@ print outData.encode('base64')
 
 This challenge is to brute force the timestamp, its easy to brute force because the **timestamp not a large number and it converted to an integer**
 
-So the range of number brute force is less
+Also the range of number brute force is less because the challenge description say so: **I am but two days old**
 
 I wrote a [python script](decrypt.py) to brute force:
 ```python
