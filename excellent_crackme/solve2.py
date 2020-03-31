@@ -1,5 +1,4 @@
 from z3 import *
-#inp_length = BitVec("inp_length",8)
 n = 45
 inp = [Int('inp%i' %i) for i in range(n)]
 numbers = [i.strip().split(" ") for i in open("numbers.txt",'r').read().split("\n")]
