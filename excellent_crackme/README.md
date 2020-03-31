@@ -106,9 +106,8 @@ VolgaCTF{7h3_M057_M47h_cr4ckM3_y0u_3V3R_533N}
 
 ## Better Solution
 After the CTF ends, I saw better solution that can solve faster:
-![Better solution](solve3.py)
-
-That is use matrix to solve like the picture below:
-![Matrix](Matrices.png)
-
 [Unhappi writeups](https://ilovectf.github.io/jekyll/update/2020/03/29/Volga.html#excellent-crackme-150-points)
+[Better solution](solve3.py)
+
+It use matrix to solve like the picture below:
+![Matrix](Matrices.png)
